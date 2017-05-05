@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: CMAC Makerbot
+title: CMAC Formlabs 3D Printer
 url: "http://yourdomain.com"
 baseurl:
 google_analytics_key:
@@ -9,7 +9,7 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: "Documentation For CMAC Makerbot 3D Printer"
+description: "Documentation For CMAC Formlabs 3D Printer"
 author: 
   name:
   email:

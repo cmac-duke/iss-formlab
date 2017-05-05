@@ -4,4 +4,4 @@ category: Preparing Files
 order: 1
 ---
 
-![](//matthewbaykenney.github.io/cmac-makerbot/images/meshlab.jpg)
+![](//matthewbaykenney.github.io/cmac-formlabs/images/meshlab.jpg)

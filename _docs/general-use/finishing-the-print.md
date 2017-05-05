@@ -4,4 +4,4 @@ category: General Use
 order: 2
 ---
 
-![](//matthewbaykenney.github.io/cmac-makerbot/images/bed.jpg)
+![](//localhost:4000/cmac-formlabs/images/bed.jpg)
